@@ -1,0 +1,466 @@
+system("clear");
+
+#ifndef ANNIMATION3_h
+#define ANNIMATION3_h
+
+system("clear");
+
+printf("                                         /    / /            / \n");
+printf("            /\\                          /    /_/            / \n");
+printf("           //\\\\                        /                   / \n");
+printf("          //  \\                       /     __            / \n");
+printf("         //   \\\\                     /     / /           / \n");
+printf("        //     \\\\                   /     /_/           / \n");
+printf("       //  ___  \\\\                 /                   / \n");
+printf("      //  |   |  \\\\               /                   / \n ");
+printf("    //   |   |   \\\\             /      __           / \n");
+printf("    //    |   |    \\\\           /      / /          / \n");
+printf("   //     |   |     \\\\         /      /_/          / \n");
+printf("          |   |               /                   / \n");
+printf("          |   |              /       __          / \n");
+printf("          |   |             /       / /         / \n");
+printf("          |   |            /       /_/         / \n");
+printf("          |   |           /                   / \n");
+printf("          |   |          /                   / \n");
+printf("          |   |         /        __         / \n");
+printf("          |   |        /        / /        / \n");
+printf("          |___|       /        / /        / \n");
+
+delaynClear();
+
+printf("                                          /    __             / \n");
+printf("                                         /    / /            / \n");
+printf("            /\\                          /    /_/            / \n");
+printf("           //\\\\                        /                   / \n");
+printf("          //  \\                       /     __            / \n");
+printf("         //   \\\\                     /     / /           / \n");
+printf("        //     \\\\                   /     /_/           / \n");
+printf("       //  ___  \\\\                 /                   / \n");
+printf("      //  |   |  \\\\               /                   / \n ");
+printf("    //   |   |   \\\\             /      __           / \n");
+printf("    //    |   |    \\\\           /      / /          / \n");
+printf("   //     |   |     \\\\         /      /_/          / \n");
+printf("          |   |               /                   / \n");
+printf("          |   |              /       __          / \n");
+printf("          |   |             /       / /         / \n");
+printf("          |   |            /       /_/         / \n");
+printf("          |   |           /                   / \n");
+printf("          |   |          /                   / \n");
+printf("          |   |         /        __         / \n");
+printf("          |   |        /        / /        / \n");
+
+delaynClear();
+
+printf("                                           /                   / \n");
+printf("                                          /    __             / \n");
+printf("                                         /    / /            / \n");
+printf("            /\\                          /    /_/            / \n");
+printf("           //\\\\                        /                   / \n");
+printf("          //  \\                       /     __            / \n");
+printf("         //   \\\\                     /     / /           / \n");
+printf("        //     \\\\                   /     /_/           / \n");
+printf("       //  ___  \\\\                 /                   / \n");
+printf("      //  |   |  \\\\               /                   / \n ");
+printf("    //   |   |   \\\\             /      __           / \n");
+printf("    //    |   |    \\\\           /      / /          / \n");
+printf("   //     |   |     \\\\         /      /_/          / \n");
+printf("          |   |               /                   / \n");
+printf("          |   |              /       __          / \n");
+printf("          |   |             /       / /         / \n");
+printf("          |   |            /       /_/         / \n");
+printf("          |   |           /                   / \n");
+printf("          |   |          /                   / \n");
+printf("          |   |         /        __         / \n");
+
+delaynClear();
+
+printf("                                            /    /_/            / \n");
+printf("                                           /                   / \n");
+printf("                                          /    __             / \n");
+printf("                                         /    / /            / \n");
+printf("            /\\                          /    /_/            / \n");
+printf("           //\\\\                        /                   / \n");
+printf("          //  \\                       /     __            / \n");
+printf("         //   \\\\                     /     / /           / \n");
+printf("        //     \\\\                   /     /_/           / \n");
+printf("       //  ___  \\\\                 /                   / \n");
+printf("      //  |   |  \\\\               /                   / \n ");
+printf("    //   |   |   \\\\             /      __           / \n");
+printf("    //    |   |    \\\\           /      / /          / \n");
+printf("   //     |   |     \\\\         /      /_/          / \n");
+printf("          |   |               /                   / \n");
+printf("          |   |              /       __          / \n");
+printf("          |   |             /       / /         / \n");
+printf("          |   |            /       /_/         / \n");
+printf("          |   |           /                   / \n");
+printf("          |   |          /                   / \n");
+
+delaynClear();
+
+printf("                                             /    / /            / \n");
+printf("                                            /    /_/            / \n");
+printf("                                           /                   / \n");
+printf("                                          /    __             / \n");
+printf("                                         /    / /            / \n");
+printf("            /\\                          /    /_/            / \n");
+printf("           //\\\\                        /                   / \n");
+printf("          //  \\                       /     __            / \n");
+printf("         //   \\\\                     /     / /           / \n");
+printf("        //     \\\\                   /     /_/           / \n");
+printf("       //  ___  \\\\                 /                   / \n");
+printf("      //  |   |  \\\\               /                   / \n ");
+printf("    //   |   |   \\\\             /      __           / \n");
+printf("    //    |   |    \\\\           /      / /          / \n");
+printf("   //     |   |     \\\\         /      /_/          / \n");
+printf("          |   |               /                   / \n");
+printf("          |   |              /       __          / \n");
+printf("          |   |             /       / /         / \n");
+printf("          |   |            /       /_/         / \n");
+printf("          |   |           /                   / \n");
+
+delaynClear();
+
+printf("                                              /    __             / \n");
+printf("                                             /    / /            / \n");
+printf("                                            /    /_/            / \n");
+printf("                                           /                   / \n");
+printf("                                          /    __             / \n");
+printf("                                         /    / /            / \n");
+printf("            /\\                          /    /_/            / \n");
+printf("           //\\\\                        /                   / \n");
+printf("          //  \\                       /     __            / \n");
+printf("         //   \\\\                     /     / /           / \n");
+printf("        //     \\\\                   /     /_/           / \n");
+printf("       //  ___  \\\\                 /                   / \n");
+printf("      //  |   |  \\\\               /                   / \n ");
+printf("    //   |   |   \\\\             /      __           / \n");
+printf("    //    |   |    \\\\           /      / /          / \n");
+printf("   //     |   |     \\\\         /      /_/          / \n");
+printf("          |   |               /                   / \n");
+printf("          |   |              /       __          / \n");
+printf("          |   |             /       / /         / \n");
+printf("          |   |            /       /_/         / \n");
+
+delaynClear();
+
+printf("                                               /                   / \n");
+printf("                                              /    __             / \n");
+printf("                                             /    / /            / \n");
+printf("                                            /    /_/            / \n");
+printf("                                           /                   / \n");
+printf("                                          /    __             / \n");
+printf("                                         /    / /            / \n");
+printf("            /\\                          /    /_/            / \n");
+printf("           //\\\\                        /                   / \n");
+printf("          //  \\                       /     __            / \n");
+printf("         //   \\\\                     /     / /           / \n");
+printf("        //     \\\\                   /     /_/           / \n");
+printf("       //  ___  \\\\                 /                   / \n");
+printf("      //  |   |  \\\\               /                   / \n ");
+printf("    //   |   |   \\\\             /      __           / \n");
+printf("    //    |   |    \\\\           /      / /          / \n");
+printf("   //     |   |     \\\\         /      /_/          / \n");
+printf("          |   |               /                   / \n");
+printf("          |   |              /       __          / \n");
+printf("          |   |             /       / /         / \n");
+
+delaynClear();
+
+printf("                                                /                   / \n");
+printf("                                               /                   / \n");
+printf("                                              /    __             / \n");
+printf("                                             /    / /            / \n");
+printf("                                            /    /_/            / \n");
+printf("                                           /                   / \n");
+printf("                                          /    __             / \n");
+printf("                                         /    / /            / \n");
+printf("            /\\                          /    /_/            / \n");
+printf("           //\\\\                        /                   / \n");
+printf("          //  \\                       /     __            / \n");
+printf("         //   \\\\                     /     / /           / \n");
+printf("        //     \\\\                   /     /_/           / \n");
+printf("       //  ___  \\\\                 /                   / \n");
+printf("      //  |   |  \\\\               /                   / \n ");
+printf("    //   |   |   \\\\             /      __           / \n");
+printf("    //    |   |    \\\\           /      / /          / \n");
+printf("   //     |   |     \\\\         /      /_/          / \n");
+printf("          |   |               /                   / \n");
+printf("          |   |              /       __          / \n");
+
+delaynClear();
+
+printf("                                                 /                   / \n");
+printf("                                                /                   / \n");
+printf("                                               /                   / \n");
+printf("                                              /    __             / \n");
+printf("                                             /    / /            / \n");
+printf("                                            /    /_/            / \n");
+printf("                                           /                   / \n");
+printf("                                          /    __             / \n");
+printf("                                         /    / /            / \n");
+printf("            /\\                          /    /_/            / \n");
+printf("           //\\\\                        /                   / \n");
+printf("          //  \\                       /     __            / \n");
+printf("         //   \\\\                     /     / /           / \n");
+printf("        //     \\\\                   /     /_/           / \n");
+printf("       //  ___  \\\\                 /                   / \n");
+printf("      //  |   |  \\\\               /                   / \n ");
+printf("    //   |   |   \\\\             /      __           / \n");
+printf("    //    |   |    \\\\           /      / /          / \n");
+printf("   //     |   |     \\\\         /      /_/          / \n");
+printf("          |   |               /                   / \n");
+
+delaynClear();
+
+printf("                                                  /   __              / \n");
+printf("                                                 /   / /             / \n");
+printf("                                                /   /_/             / \n");
+printf("                                               /                   / \n");
+printf("                                              /    __             / \n");
+printf("                                             /    / /            / \n");
+printf("                                            /    /_/            / \n");
+printf("                                           /                   / \n");
+printf("                                          /    __             / \n");
+printf("                                         /    / /            / \n");
+printf("            /\\                          /    /_/            / \n");
+printf("           //\\\\                        /                   / \n");
+printf("          //  \\                       /     __            / \n");
+printf("         //   \\\\                     /     / /           / \n");
+printf("        //     \\\\                   /     /_/           / \n");
+printf("       //  ___  \\\\                 /                   / \n");
+printf("      //  |   |  \\\\               /                   / \n ");
+printf("    //   |   |   \\\\             /      __           / \n");
+printf("    //    |   |    \\\\           /      / /          / \n");
+printf("   //     |   |     \\\\         /      /_/          / \n");
+
+delaynClear();
+
+printf("                                                   /                   / \n");
+printf("                                                  /   __              / \n");
+printf("                                                 /   / /             / \n");
+printf("                                                /   /_/             / \n");
+printf("                                               /                   / \n");
+printf("                                              /    __             / \n");
+printf("                                             /    / /            / \n");
+printf("                                            /    /_/            / \n");
+printf("                                           /                   / \n");
+printf("                                          /    __             / \n");
+printf("                                         /    / /            / \n");
+printf("            /\\                          /    /_/            / \n");
+printf("           //\\\\                        /                   / \n");
+printf("          //  \\                       /     __            / \n");
+printf("         //   \\\\                     /     / /           / \n");
+printf("        //     \\\\                   /     /_/           / \n");
+printf("       //  ___  \\\\                 /                   / \n");
+printf("      //  |   |  \\\\               /                   / \n ");
+printf("    //   |   |   \\\\             /      __           / \n");
+printf("    //    |   |    \\\\           /      / /          / \n");
+
+delaynClear();
+
+printf("                                                    /                   / \n");
+printf("                                                   /                   / \n");
+printf("                                                  /   __              / \n");
+printf("                                                 /   / /             / \n");
+printf("                                                /   /_/             / \n");
+printf("                                               /                   / \n");
+printf("                                              /    __             / \n");
+printf("                                             /    / /            / \n");
+printf("                                            /    /_/            / \n");
+printf("                                           /                   / \n");
+printf("                                          /    __             / \n");
+printf("                                         /    / /            / \n");
+printf("            /\\                          /    /_/            / \n");
+printf("           //\\\\                        /                   / \n");
+printf("          //  \\                       /     __            / \n");
+printf("         //   \\\\                     /     / /           / \n");
+printf("        //     \\\\                   /     /_/           / \n");
+printf("       //  ___  \\\\                 /                   / \n");
+printf("      //  |   |  \\\\               /                   / \n ");
+printf("    //   |   |   \\\\             /      __           / \n");
+
+delaynClear();
+
+printf("                                                     /                   / \n");
+printf("                                                    /                   / \n");
+printf("                                                   /                   / \n");
+printf("                                                  /   __              / \n");
+printf("                                                 /   / /             / \n");
+printf("                                                /   /_/             / \n");
+printf("                                               /                   / \n");
+printf("                                              /    __             / \n");
+printf("                                             /    / /            / \n");
+printf("                                            /    /_/            / \n");
+printf("                                           /                   / \n");
+printf("                                          /    __             / \n");
+printf("                                         /    / /            / \n");
+printf("            /\\                          /    /_/            / \n");
+printf("           //\\\\                        /                   / \n");
+printf("          //  \\                       /     __            / \n");
+printf("         //   \\\\                     /     / /           / \n");
+printf("        //     \\\\                   /     /_/           / \n");
+printf("       //  ___  \\\\                 /                   / \n");
+printf("      //  |   |  \\\\               /                   / \n ");
+
+delaynClear();
+
+printf("                                                      /                   / \n");
+printf("                                                     /                   / \n");
+printf("                                                    /                   / \n");
+printf("                                                   /                   / \n");
+printf("                                                  /   __              / \n");
+printf("                                                 /   / /             / \n");
+printf("                                                /   /_/             / \n");
+printf("                                               /                   / \n");
+printf("                                              /    __             / \n");
+printf("                                             /    / /            / \n");
+printf("                                            /    /_/            / \n");
+printf("                                           /                   / \n");
+printf("                                          /    __             / \n");
+printf("                                         /    / /            / \n");
+printf("            /\\                          /    /_/            / \n");
+printf("           //\\\\                        /                   / \n");
+printf("          //  \\                       /     __            / \n");
+printf("         //   \\\\                     /     / /           / \n");
+printf("        //     \\\\                   /     /_/           / \n");
+printf("       //  ___  \\\\                 /                   / \n");
+
+delaynClear();
+
+printf("                                                       /                   / \n");
+printf("                                                      /                   / \n");
+printf("                                                     /                   / \n");
+printf("                                                    /                   / \n");
+printf("                                                   /                   / \n");
+printf("                                                  /   __              / \n");
+printf("                                                 /   / /             / \n");
+printf("                                                /   /_/             / \n");
+printf("                                               /                   / \n");
+printf("                                              /    __             / \n");
+printf("                                             /    / /            / \n");
+printf("                                            /    /_/            / \n");
+printf("                                           /                   / \n");
+printf("                                          /    __             / \n");
+printf("                                         /    / /            / \n");
+printf("            /\\                          /    /_/            / \n");
+printf("           //\\\\                        /                   / \n");
+printf("          //  \\                       /     __            / \n");
+printf("         //   \\\\                     /     / /           / \n");
+printf("        //     \\\\                   /     /_/           / \n");
+
+delaynClear();
+
+printf("                                                        /                   / \n");
+printf("                                                       /                   / \n");
+printf("                                                      /                   / \n");
+printf("                                                     /                   / \n");
+printf("                                                    /                   / \n");
+printf("                                                   /                   / \n");
+printf("                                                  /   __              / \n");
+printf("                                                 /   / /             / \n");
+printf("                                                /   /_/             / \n");
+printf("                                               /                   / \n");
+printf("                                              /    __             / \n");
+printf("                                             /    / /            / \n");
+printf("                                            /    /_/            / \n");
+printf("                                           /                   / \n");
+printf("                                          /    __             / \n");
+printf("                                         /    / /            / \n");
+printf("            /\\                          /    /_/            / \n");
+printf("           //\\\\                        /                   / \n");
+printf("          //  \\                       /     __            / \n");
+printf("         //   \\\\                     /     / /           / \n");
+
+delaynClear();
+
+printf("                                                         /                   / \n");
+printf("                                                        /                   / \n");
+printf("                                                       /                   / \n");
+printf("                                                      /                   / \n");
+printf("                                                     /                   / \n");
+printf("                                                    /                   / \n");
+printf("                                                   /                   / \n");
+printf("                                                  /   __              / \n");
+printf("                                                 /   / /             / \n");
+printf("                                                /   /_/             / \n");
+printf("                                               /                   / \n");
+printf("                                              /    __             / \n");
+printf("                                             /    / /            / \n");
+printf("                                            /    /_/            / \n");
+printf("                                           /                   / \n");
+printf("                                          /    __             / \n");
+printf("                                         /    / /            / \n");
+printf("            /\\                          /    /_/            / \n");
+printf("           //\\\\                        /                   / \n");
+printf("          //  \\                       /     __            / \n");
+
+delaynClear();
+
+printf("                                                          /                   / \n");
+printf("                                                         /                   / \n");
+printf("                                                        /                   / \n");
+printf("                                                       /                   / \n");
+printf("                                                      /                   / \n");
+printf("                                                     /                   / \n");
+printf("                                                    /                   / \n");
+printf("                                                   /                   / \n");
+printf("                                                  /   __              / \n");
+printf("                                                 /   / /             / \n");
+printf("                                                /   /_/             / \n");
+printf("                                               /                   / \n");
+printf("                                              /    __             / \n");
+printf("                                             /    / /            / \n");
+printf("                                            /    /_/            / \n");
+printf("                                           /                   / \n");
+printf("                                          /    __             / \n");
+printf("                                         /    / /            / \n");
+printf("            /\\                          /    /_/            / \n");
+printf("           //\\\\                        /                   / \n");
+
+delaynClear();
+
+printf("                                                           /                   / \n");
+printf("                                                          /                   / \n");
+printf("                                                         /                   / \n");
+printf("                                                        /                   / \n");
+printf("                                                       /                   / \n");
+printf("                                                      /                   / \n");
+printf("                                                     /                   / \n");
+printf("                                                    /                   / \n");
+printf("                                                   /                   / \n");
+printf("                                                  /   __              / \n");
+printf("                                                 /   / /             / \n");
+printf("                                                /   /_/             / \n");
+printf("                                               /                   / \n");
+printf("                                              /    __             / \n");
+printf("                                             /    / /            / \n");
+printf("                                            /    /_/            / \n");
+printf("                                           /                   / \n");
+printf("                                          /    __             / \n");
+printf("                                         /    / /            / \n");
+printf("            /\\                          /    /_/            / \n");
+
+delaynClear();
+
+printf("                                                            /                   / \n");
+printf("                                                           /                   / \n");
+printf("                                                          /                   / \n");
+printf("                                                         /                   / \n");
+printf("                                                        /                   / \n");
+printf("                                                       /                   / \n");
+printf("                                                      /                   / \n");
+printf("                                                     /                   / \n");
+printf("                                                    /                   / \n");
+printf("                                                   /                   / \n");
+printf("                                                  /   __              / \n");
+printf("                                                 /   / /             / \n");
+printf("                                                /   /_/             / \n");
+printf("                                               /                   / \n");
+printf("                                              /    __             / \n");
+printf("                                             /    / /            / \n");
+printf("                                            /    /_/            / \n");
+printf("                                           /                   / \n");
+printf("                                          /    __             / \n");
+printf("                                         /    / /            / \n");
+
+#endif
